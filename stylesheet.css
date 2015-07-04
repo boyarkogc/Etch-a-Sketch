@@ -1,0 +1,35 @@
+* {
+	font-family: Arial; 
+}
+
+header {
+	text-align: center; 
+}
+
+div {
+	margin: 0; padding: 0; 
+}
+
+button {
+	background: purple;
+	border: 1px solid black;
+	border-radius: 1px;
+	color: white;
+	padding: 3px 10px;
+}
+
+.button_container {
+	margin: 0 auto;
+	width: 960px;
+	text-align: center;
+}
+
+.grid {
+	margin: 10px auto;
+}
+
+.square {
+	float: left;
+	border: 1px solid black;
+	background: purple;
+}

@@ -1,0 +1,5 @@
+Etch-a-Sketch ideas
+
+1. Make grid into circle, triangle, other shapes
+2. Offer ability to change color of grid
+3. Offer ability to change color of grid with the reduced opacity option
